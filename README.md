@@ -42,14 +42,12 @@ financial services — and ship complex migrations with LLM-assisted workflows.
 
 ## Selected Projects
 
-- **[emet](https://github.com/Wai-Lau/emet)** — Self-hosted, MCP-queryable
-  personal knowledge graph. Your data is the durable asset; the LLM is
-  interchangeable.
-- **[exec-fn](https://github.com/Wai-Lau/exec-fn)** — ADHD planning
-  assistant. FastAPI + Claude pipeline: kanban, day-planner timeline,
-  nudge loop. Self-hosted.
-- **[hosaka](https://github.com/Wai-Lau/hosaka)** — Local near-real-time
-  TTS: Kokoro presets + Chatterbox voice cloning + Parler baking, on an
+- **emet** — Self-hosted, MCP-queryable personal knowledge graph. Your
+  data is the durable asset; the LLM is interchangeable.
+- **exec-fn** — Self-hosted planning assistant. FastAPI + Claude
+  pipeline: kanban, day-planner timeline, nudge loop.
+- **[hosaka](https://wai-lau.net/hosaka)** — Local near-real-time TTS:
+  Kokoro presets + Chatterbox voice cloning + Parler baking, on an
   RTX 5070 Ti.
-- **[nightfall](https://github.com/Wai-Lau/nightfall)** — Browser
-  cyberpunk RPG. TypeScript + React + Webpack.
+- **[nightfall](https://wai-lau.net/nightfall)** — Browser cyberpunk
+  RPG. TypeScript + React + Webpack.
