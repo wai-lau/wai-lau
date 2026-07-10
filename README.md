@@ -2,13 +2,8 @@
 
 **Senior Software Engineer — Infrastructure & Platform** · Montréal, QC
 
-8 years scaling international commerce and financial platforms. I work on
-distributed systems, infrastructure deployment, and high-throughput
-financial services — and ship complex migrations with LLM-assisted workflows.
-
-📧 wl.wailau@gmail.com ·
-💼 [LinkedIn](https://www.linkedin.com/in/wai-lun-lau) ·
-🐙 [GitHub](https://github.com/Wai-Lau)
+I work on distributed systems, infrastructure deployment, and high-throughput
+financial services.
 
 ---
 
@@ -27,8 +22,6 @@ financial services — and ship complex migrations with LLM-assisted workflows.
 
 **Nuance Communications** — Software Developer · 1 yr
 - Internal tooling and automation for speech/NLP teams.
-
-**Education:** B.Eng. Software Engineering (Co-op), Concordia University — Dean's List
 
 ---
 
