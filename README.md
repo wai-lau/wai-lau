@@ -35,9 +35,8 @@ financial services.
 
 ## Selected Projects
 
-- **emet** — Self-hosted, MCP-queryable personal knowledge graph. Your
-  data is the durable asset; the LLM is interchangeable.
-- **exec-fn** — Self-hosted planning assistant. FastAPI + Claude
+- **[emet](https://wai-lau.net/emet)** — A personally-owned knowledge graph with a hard privacy wall.
+- **[exec-fn](https://wai-lau.net/exec-fn)** — Self-hosted planning assistant. FastAPI + Claude
   pipeline: kanban, day-planner timeline, nudge loop.
 - **[hosaka](https://wai-lau.net/hosaka)** — Local near-real-time TTS:
   Kokoro presets + Chatterbox voice cloning + Parler baking, on an
