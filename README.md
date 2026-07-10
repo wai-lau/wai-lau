@@ -33,10 +33,10 @@ financial services.
 
 ---
 
-## Selected Projects
+## Living Projects [wai-lau.net](https://wai-lau.net/)
 
-- **[emet](https://wai-lau.net/emet)** — A personally-owned knowledge graph with a hard privacy wall.
-- **[exec-fn](https://wai-lau.net/exec-fn)** — Self-hosted planning assistant. FastAPI + Claude
+- **[emet](https://github.com/wai-lau/emet)** — A personally-owned knowledge graph with a hard privacy wall.
+- **[exec-fn](https://github.com/wai-lau/exec-fn)** — Self-hosted planning assistant. FastAPI + Claude
   pipeline: kanban, day-planner timeline, nudge loop.
 - **[hosaka](https://wai-lau.net/hosaka)** — Local near-real-time TTS:
   Kokoro presets + Chatterbox voice cloning + Parler baking, on an
